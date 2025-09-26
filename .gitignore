@@ -1,0 +1,10 @@
+.env
+chunks.pkl
+embeddings.pkl
+faiss.index
+bp_chunks.pkl
+bp_faiss.index
+code_chunks.pkl
+code_faiss.index
+__pycache__/
+*.pyc

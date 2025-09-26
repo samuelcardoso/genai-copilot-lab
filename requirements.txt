@@ -1,0 +1,12 @@
+# Biblioteca para interagir com a API do Google Gemini
+google-genai
+# Biblioteca para carregar variáveis de ambiente de um arquivo .env
+python-dotenv
+# Biblioteca para indexação e busca vetorial
+faiss-cpu
+# Biblioteca para operações numéricas
+numpy
+# Biblioteca para manipulação de arquivos PDF
+PyPDF2
+# Biblioteca para carregar variáveis de ambiente de um arquivo .env
+python-dotenv

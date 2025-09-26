@@ -1,0 +1,200 @@
+## 01. Cultura de Engenharia
+01.01 - Defina políticas claras para Cultura de Engenharia e socialize-as com a equipe.
+01.02 - Mantenha exemplos práticos de Cultura de Engenharia no repositório para facilitar adoção.
+01.03 - Automatize validações de Cultura de Engenharia em pipelines sempre que possível.
+01.04 - Meça continuamente Cultura de Engenharia com métricas simples e comparáveis.
+01.05 - Evite antipadrões comuns em Cultura de Engenharia; registre incidentes e lições aprendidas.
+01.06 - Crie checklists objetivos para Cultura de Engenharia e use-os em PRs e revisões técnicas.
+01.07 - Faça pequenas melhorias semanais relacionadas a Cultura de Engenharia, priorizando impacto.
+01.08 - Documente decisões sobre Cultura de Engenharia em ADRs curtos e versionados.
+01.09 - Revise Cultura de Engenharia trimestralmente e elimine regras obsoletas.
+## 02. Git & Branching
+02.01 - Defina políticas claras para Git & Branching e socialize-as com a equipe.
+02.02 - Mantenha exemplos práticos de Git & Branching no repositório para facilitar adoção.
+02.03 - Automatize validações de Git & Branching em pipelines sempre que possível.
+02.04 - Meça continuamente Git & Branching com métricas simples e comparáveis.
+02.05 - Evite antipadrões comuns em Git & Branching; registre incidentes e lições aprendidas.
+02.06 - Crie checklists objetivos para Git & Branching e use-os em PRs e revisões técnicas.
+02.07 - Faça pequenas melhorias semanais relacionadas a Git & Branching, priorizando impacto.
+02.08 - Documente decisões sobre Git & Branching em ADRs curtos e versionados.
+02.09 - Revise Git & Branching trimestralmente e elimine regras obsoletas.
+## 03. Code Review
+03.01 - Defina políticas claras para Code Review e socialize-as com a equipe.
+03.02 - Mantenha exemplos práticos de Code Review no repositório para facilitar adoção.
+03.03 - Automatize validações de Code Review em pipelines sempre que possível.
+03.04 - Meça continuamente Code Review com métricas simples e comparáveis.
+03.05 - Evite antipadrões comuns em Code Review; registre incidentes e lições aprendidas.
+03.06 - Crie checklists objetivos para Code Review e use-os em PRs e revisões técnicas.
+03.07 - Faça pequenas melhorias semanais relacionadas a Code Review, priorizando impacto.
+03.08 - Documente decisões sobre Code Review em ADRs curtos e versionados.
+03.09 - Revise Code Review trimestralmente e elimine regras obsoletas.
+## 04. Python: Estilo & Tipagem
+04.01 - Defina políticas claras para Python: Estilo & Tipagem e socialize-as com a equipe.
+04.02 - Mantenha exemplos práticos de Python: Estilo & Tipagem no repositório para facilitar adoção.
+04.03 - Automatize validações de Python: Estilo & Tipagem em pipelines sempre que possível.
+04.04 - Meça continuamente Python: Estilo & Tipagem com métricas simples e comparáveis.
+04.05 - Evite antipadrões comuns em Python: Estilo & Tipagem; registre incidentes e lições aprendidas.
+04.06 - Crie checklists objetivos para Python: Estilo & Tipagem e use-os em PRs e revisões técnicas.
+04.07 - Faça pequenas melhorias semanais relacionadas a Python: Estilo & Tipagem, priorizando impacto.
+04.08 - Documente decisões sobre Python: Estilo & Tipagem em ADRs curtos e versionados.
+04.09 - Revise Python: Estilo & Tipagem trimestralmente e elimine regras obsoletas.
+## 05. Logging & Observabilidade
+05.01 - Defina políticas claras para Logging & Observabilidade e socialize-as com a equipe.
+05.02 - Mantenha exemplos práticos de Logging & Observabilidade no repositório para facilitar adoção.
+05.03 - Automatize validações de Logging & Observabilidade em pipelines sempre que possível.
+05.04 - Meça continuamente Logging & Observabilidade com métricas simples e comparáveis.
+05.05 - Evite antipadrões comuns em Logging & Observabilidade; registre incidentes e lições aprendidas.
+05.06 - Crie checklists objetivos para Logging & Observabilidade e use-os em PRs e revisões técnicas.
+05.07 - Faça pequenas melhorias semanais relacionadas a Logging & Observabilidade, priorizando impacto.
+05.08 - Documente decisões sobre Logging & Observabilidade em ADRs curtos e versionados.
+05.09 - Revise Logging & Observabilidade trimestralmente e elimine regras obsoletas.
+## 06. Testes (Unidade/Integração/E2E)
+06.01 - Defina políticas claras para Testes (Unidade/Integração/E2E) e socialize-as com a equipe.
+06.02 - Mantenha exemplos práticos de Testes (Unidade/Integração/E2E) no repositório para facilitar adoção.
+06.03 - Automatize validações de Testes (Unidade/Integração/E2E) em pipelines sempre que possível.
+06.04 - Meça continuamente Testes (Unidade/Integração/E2E) com métricas simples e comparáveis.
+06.05 - Evite antipadrões comuns em Testes (Unidade/Integração/E2E); registre incidentes e lições aprendidas.
+06.06 - Crie checklists objetivos para Testes (Unidade/Integração/E2E) e use-os em PRs e revisões técnicas.
+06.07 - Faça pequenas melhorias semanais relacionadas a Testes (Unidade/Integração/E2E), priorizando impacto.
+06.08 - Documente decisões sobre Testes (Unidade/Integração/E2E) em ADRs curtos e versionados.
+06.09 - Revise Testes (Unidade/Integração/E2E) trimestralmente e elimine regras obsoletas.
+## 07. Exceções & Erros
+07.01 - Defina políticas claras para Exceções & Erros e socialize-as com a equipe.
+07.02 - Mantenha exemplos práticos de Exceções & Erros no repositório para facilitar adoção.
+07.03 - Automatize validações de Exceções & Erros em pipelines sempre que possível.
+07.04 - Meça continuamente Exceções & Erros com métricas simples e comparáveis.
+07.05 - Evite antipadrões comuns em Exceções & Erros; registre incidentes e lições aprendidas.
+07.06 - Crie checklists objetivos para Exceções & Erros e use-os em PRs e revisões técnicas.
+07.07 - Faça pequenas melhorias semanais relacionadas a Exceções & Erros, priorizando impacto.
+07.08 - Documente decisões sobre Exceções & Erros em ADRs curtos e versionados.
+07.09 - Revise Exceções & Erros trimestralmente e elimine regras obsoletas.
+## 08. Segurança & LGPD
+08.01 - Defina políticas claras para Segurança & LGPD e socialize-as com a equipe.
+08.02 - Mantenha exemplos práticos de Segurança & LGPD no repositório para facilitar adoção.
+08.03 - Automatize validações de Segurança & LGPD em pipelines sempre que possível.
+08.04 - Meça continuamente Segurança & LGPD com métricas simples e comparáveis.
+08.05 - Evite antipadrões comuns em Segurança & LGPD; registre incidentes e lições aprendidas.
+08.06 - Crie checklists objetivos para Segurança & LGPD e use-os em PRs e revisões técnicas.
+08.07 - Faça pequenas melhorias semanais relacionadas a Segurança & LGPD, priorizando impacto.
+08.08 - Documente decisões sobre Segurança & LGPD em ADRs curtos e versionados.
+08.09 - Revise Segurança & LGPD trimestralmente e elimine regras obsoletas.
+## 09. Configurações & Segredos
+09.01 - Defina políticas claras para Configurações & Segredos e socialize-as com a equipe.
+09.02 - Mantenha exemplos práticos de Configurações & Segredos no repositório para facilitar adoção.
+09.03 - Automatize validações de Configurações & Segredos em pipelines sempre que possível.
+09.04 - Meça continuamente Configurações & Segredos com métricas simples e comparáveis.
+09.05 - Evite antipadrões comuns em Configurações & Segredos; registre incidentes e lições aprendidas.
+09.06 - Crie checklists objetivos para Configurações & Segredos e use-os em PRs e revisões técnicas.
+09.07 - Faça pequenas melhorias semanais relacionadas a Configurações & Segredos, priorizando impacto.
+09.08 - Documente decisões sobre Configurações & Segredos em ADRs curtos e versionados.
+09.09 - Revise Configurações & Segredos trimestralmente e elimine regras obsoletas.
+## 10. Dependências & Build
+10.01 - Defina políticas claras para Dependências & Build e socialize-as com a equipe.
+10.02 - Mantenha exemplos práticos de Dependências & Build no repositório para facilitar adoção.
+10.03 - Automatize validações de Dependências & Build em pipelines sempre que possível.
+10.04 - Meça continuamente Dependências & Build com métricas simples e comparáveis.
+10.05 - Evite antipadrões comuns em Dependências & Build; registre incidentes e lições aprendidas.
+10.06 - Crie checklists objetivos para Dependências & Build e use-os em PRs e revisões técnicas.
+10.07 - Faça pequenas melhorias semanais relacionadas a Dependências & Build, priorizando impacto.
+10.08 - Documente decisões sobre Dependências & Build em ADRs curtos e versionados.
+10.09 - Revise Dependências & Build trimestralmente e elimine regras obsoletas.
+## 11. Banco de Dados & Migrations
+11.01 - Defina políticas claras para Banco de Dados & Migrations e socialize-as com a equipe.
+11.02 - Mantenha exemplos práticos de Banco de Dados & Migrations no repositório para facilitar adoção.
+11.03 - Automatize validações de Banco de Dados & Migrations em pipelines sempre que possível.
+11.04 - Meça continuamente Banco de Dados & Migrations com métricas simples e comparáveis.
+11.05 - Evite antipadrões comuns em Banco de Dados & Migrations; registre incidentes e lições aprendidas.
+11.06 - Crie checklists objetivos para Banco de Dados & Migrations e use-os em PRs e revisões técnicas.
+11.07 - Faça pequenas melhorias semanais relacionadas a Banco de Dados & Migrations, priorizando impacto.
+11.08 - Documente decisões sobre Banco de Dados & Migrations em ADRs curtos e versionados.
+11.09 - Revise Banco de Dados & Migrations trimestralmente e elimine regras obsoletas.
+## 12. APIs & Contratos
+12.01 - Defina políticas claras para APIs & Contratos e socialize-as com a equipe.
+12.02 - Mantenha exemplos práticos de APIs & Contratos no repositório para facilitar adoção.
+12.03 - Automatize validações de APIs & Contratos em pipelines sempre que possível.
+12.04 - Meça continuamente APIs & Contratos com métricas simples e comparáveis.
+12.05 - Evite antipadrões comuns em APIs & Contratos; registre incidentes e lições aprendidas.
+12.06 - Crie checklists objetivos para APIs & Contratos e use-os em PRs e revisões técnicas.
+12.07 - Faça pequenas melhorias semanais relacionadas a APIs & Contratos, priorizando impacto.
+12.08 - Documente decisões sobre APIs & Contratos em ADRs curtos e versionados.
+12.09 - Revise APIs & Contratos trimestralmente e elimine regras obsoletas.
+## 13. Performance & Eficiência
+13.01 - Defina políticas claras para Performance & Eficiência e socialize-as com a equipe.
+13.02 - Mantenha exemplos práticos de Performance & Eficiência no repositório para facilitar adoção.
+13.03 - Automatize validações de Performance & Eficiência em pipelines sempre que possível.
+13.04 - Meça continuamente Performance & Eficiência com métricas simples e comparáveis.
+13.05 - Evite antipadrões comuns em Performance & Eficiência; registre incidentes e lições aprendidas.
+13.06 - Crie checklists objetivos para Performance & Eficiência e use-os em PRs e revisões técnicas.
+13.07 - Faça pequenas melhorias semanais relacionadas a Performance & Eficiência, priorizando impacto.
+13.08 - Documente decisões sobre Performance & Eficiência em ADRs curtos e versionados.
+13.09 - Revise Performance & Eficiência trimestralmente e elimine regras obsoletas.
+## 14. Cache & Escalabilidade
+14.01 - Defina políticas claras para Cache & Escalabilidade e socialize-as com a equipe.
+14.02 - Mantenha exemplos práticos de Cache & Escalabilidade no repositório para facilitar adoção.
+14.03 - Automatize validações de Cache & Escalabilidade em pipelines sempre que possível.
+14.04 - Meça continuamente Cache & Escalabilidade com métricas simples e comparáveis.
+14.05 - Evite antipadrões comuns em Cache & Escalabilidade; registre incidentes e lições aprendidas.
+14.06 - Crie checklists objetivos para Cache & Escalabilidade e use-os em PRs e revisões técnicas.
+14.07 - Faça pequenas melhorias semanais relacionadas a Cache & Escalabilidade, priorizando impacto.
+14.08 - Documente decisões sobre Cache & Escalabilidade em ADRs curtos e versionados.
+14.09 - Revise Cache & Escalabilidade trimestralmente e elimine regras obsoletas.
+## 15. CI/CD & Release
+15.01 - Defina políticas claras para CI/CD & Release e socialize-as com a equipe.
+15.02 - Mantenha exemplos práticos de CI/CD & Release no repositório para facilitar adoção.
+15.03 - Automatize validações de CI/CD & Release em pipelines sempre que possível.
+15.04 - Meça continuamente CI/CD & Release com métricas simples e comparáveis.
+15.05 - Evite antipadrões comuns em CI/CD & Release; registre incidentes e lições aprendidas.
+15.06 - Crie checklists objetivos para CI/CD & Release e use-os em PRs e revisões técnicas.
+15.07 - Faça pequenas melhorias semanais relacionadas a CI/CD & Release, priorizando impacto.
+15.08 - Documente decisões sobre CI/CD & Release em ADRs curtos e versionados.
+15.09 - Revise CI/CD & Release trimestralmente e elimine regras obsoletas.
+## 16. Infra como Código
+16.01 - Defina políticas claras para Infra como Código e socialize-as com a equipe.
+16.02 - Mantenha exemplos práticos de Infra como Código no repositório para facilitar adoção.
+16.03 - Automatize validações de Infra como Código em pipelines sempre que possível.
+16.04 - Meça continuamente Infra como Código com métricas simples e comparáveis.
+16.05 - Evite antipadrões comuns em Infra como Código; registre incidentes e lições aprendidas.
+16.06 - Crie checklists objetivos para Infra como Código e use-os em PRs e revisões técnicas.
+16.07 - Faça pequenas melhorias semanais relacionadas a Infra como Código, priorizando impacto.
+16.08 - Documente decisões sobre Infra como Código em ADRs curtos e versionados.
+16.09 - Revise Infra como Código trimestralmente e elimine regras obsoletas.
+## 17. Mensageria & Assíncrono
+17.01 - Defina políticas claras para Mensageria & Assíncrono e socialize-as com a equipe.
+17.02 - Mantenha exemplos práticos de Mensageria & Assíncrono no repositório para facilitar adoção.
+17.03 - Automatize validações de Mensageria & Assíncrono em pipelines sempre que possível.
+17.04 - Meça continuamente Mensageria & Assíncrono com métricas simples e comparáveis.
+17.05 - Evite antipadrões comuns em Mensageria & Assíncrono; registre incidentes e lições aprendidas.
+17.06 - Crie checklists objetivos para Mensageria & Assíncrono e use-os em PRs e revisões técnicas.
+17.07 - Faça pequenas melhorias semanais relacionadas a Mensageria & Assíncrono, priorizando impacto.
+17.08 - Documente decisões sobre Mensageria & Assíncrono em ADRs curtos e versionados.
+17.09 - Revise Mensageria & Assíncrono trimestralmente e elimine regras obsoletas.
+## 18. Feature Flags
+18.01 - Defina políticas claras para Feature Flags e socialize-as com a equipe.
+18.02 - Mantenha exemplos práticos de Feature Flags no repositório para facilitar adoção.
+18.03 - Automatize validações de Feature Flags em pipelines sempre que possível.
+18.04 - Meça continuamente Feature Flags com métricas simples e comparáveis.
+18.05 - Evite antipadrões comuns em Feature Flags; registre incidentes e lições aprendidas.
+18.06 - Crie checklists objetivos para Feature Flags e use-os em PRs e revisões técnicas.
+18.07 - Faça pequenas melhorias semanais relacionadas a Feature Flags, priorizando impacto.
+18.08 - Documente decisões sobre Feature Flags em ADRs curtos e versionados.
+18.09 - Revise Feature Flags trimestralmente e elimine regras obsoletas.
+## 19. Documentação & Conhecimento
+19.01 - Defina políticas claras para Documentação & Conhecimento e socialize-as com a equipe.
+19.02 - Mantenha exemplos práticos de Documentação & Conhecimento no repositório para facilitar adoção.
+19.03 - Automatize validações de Documentação & Conhecimento em pipelines sempre que possível.
+19.04 - Meça continuamente Documentação & Conhecimento com métricas simples e comparáveis.
+19.05 - Evite antipadrões comuns em Documentação & Conhecimento; registre incidentes e lições aprendidas.
+19.06 - Crie checklists objetivos para Documentação & Conhecimento e use-os em PRs e revisões técnicas.
+19.07 - Faça pequenas melhorias semanais relacionadas a Documentação & Conhecimento, priorizando impacto.
+19.08 - Documente decisões sobre Documentação & Conhecimento em ADRs curtos e versionados.
+19.09 - Revise Documentação & Conhecimento trimestralmente e elimine regras obsoletas.
+## 20. RAG & LLMs
+20.01 - Defina políticas claras para RAG & LLMs e socialize-as com a equipe.
+20.02 - Mantenha exemplos práticos de RAG & LLMs no repositório para facilitar adoção.
+20.03 - Automatize validações de RAG & LLMs em pipelines sempre que possível.
+20.04 - Meça continuamente RAG & LLMs com métricas simples e comparáveis.
+20.05 - Evite antipadrões comuns em RAG & LLMs; registre incidentes e lições aprendidas.
+20.06 - Crie checklists objetivos para RAG & LLMs e use-os em PRs e revisões técnicas.
+20.07 - Faça pequenas melhorias semanais relacionadas a RAG & LLMs, priorizando impacto.
+20.08 - Documente decisões sobre RAG & LLMs em ADRs curtos e versionados.
+20.09 - Revise RAG & LLMs trimestralmente e elimine regras obsoletas.
