@@ -1,7 +1,6 @@
 # Workshop — Criando um Copilot Personalizado com RAG (Gemini + FAISS)
 
-> **Duração sugerida:** 90–120 min (prática guiada)  
-> **Público:** alunos de Engenharia de Software (nível iniciante/intermediário em Python)
+> **Duração sugerida:** 90–120 min
 
 Este workshop conduz, passo a passo, a construção de um **copilot** que responde perguntas
 **com base nas Boas Práticas da sua empresa** e **no seu código-fonte**, usando **RAG** (Retrieval-Augmented Generation),
@@ -211,26 +210,6 @@ python main.py ask --question "O módulo sum.py segue nossas boas práticas?"
 
 ---
 
-## Exercícios Propostos (30–40 min)
-
-1) **Mapeando violações**  
-   - Pergunte: “Quais funções não possuem docstring e por quê isso é um problema segundo nossas boas práticas?”  
-   - Esperado: a resposta **cita arquivos** via `[FILE]` e relaciona com as regras do `.txt`.
-
-2) **Plano de refatoração**  
-   - Pergunte: “Liste 3 refatorações concretas no código que alinham com nossas práticas.”  
-   - Esperado: passos acionáveis, menção a trechos.
-
-3) **Testabilidade**  
-   - Pergunte: “Quais partes do projeto mais se beneficiariam de testes adicionais?”  
-   - Esperado: conexão direta com a regra “80%+ cobertura”.
-
-4) **Crie seu próprio `.txt`**  
-   - Altere `boas_praticas.txt` para refletir a cultura da equipe da dupla e **reingira**.  
-   - Refaça as perguntas do 1–3 e compare as diferenças.
-
----
-
 ## Desafios (para além do básico)
 
 1) **Tunar k**  
@@ -278,13 +257,3 @@ python main.py ask --question "O módulo sum.py segue nossas boas práticas?"
 - **FAISS:** Biblioteca de busca vetorial eficiente (Facebook AI Similarity Search).
 - **Chunk:** Pedaço de texto/código menor para indexação e recuperação.
 
----
-
-## Encerramento
-
-- Mostre 2–3 perguntas onde o copilot realmente **aponta para arquivos** e **conecta com a prática**.
-- Discuta limitações: **contexto curto**, **“alucinações”**, **limpeza de dados**, **privacidade**.
-- Próximos passos: **citações com score**, **reranking**, **UI web**, **observabilidade de prompts**.
-
-> **Atalho útil**: se algo der muito errado, rode `python main.py reset` e recomece da ingestão.  
-> Bom workshop! 🚀
